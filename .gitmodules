@@ -16,3 +16,6 @@
 [submodule "pipex"]
 	path = pipex
 	url = git@github.com:Nass26dev/pipex.git
+[submodule "Philosophers"]
+	path = Philosophers
+	url = git@github.com:Nass26dev/Philosophers.git
