@@ -22,3 +22,6 @@
 [submodule "minishell"]
 	path = minishell
 	url = git@github.com:Nass26dev/minishell.git
+[submodule "FdF"]
+	path = FdF
+	url = git@github.com:Nass26dev/FdF.git
