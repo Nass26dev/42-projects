@@ -1,27 +1,36 @@
 [submodule "libft"]
 	path = libft
 	url = git@github.com:Nass26dev/libft.git
+	branch = main
 [submodule "get_next_line"]
 	path = get_next_line
 	url = git@github.com:Nass26dev/get_next_line.git
+	branch = main
 [submodule "ft_printf"]
 	path = ft_printf
 	url = git@github.com:Nass26dev/ft_printf.git
+	branch = main
 [submodule "Born2beroot"]
 	path = Born2beroot
 	url = git@github.com:Nass26dev/Born2beroot.git
+	branch = main
 [submodule "push_swap"]
 	path = push_swap
 	url = git@github.com:Nass26dev/push_swap.git
+	branch = main
 [submodule "pipex"]
 	path = pipex
 	url = git@github.com:Nass26dev/pipex.git
+	branch = main
 [submodule "Philosophers"]
 	path = Philosophers
 	url = git@github.com:Nass26dev/Philosophers.git
+	branch = main
 [submodule "minishell"]
 	path = minishell
 	url = git@github.com:Nass26dev/minishell.git
+	branch = main
 [submodule "FdF"]
 	path = FdF
 	url = git@github.com:Nass26dev/FdF.git
+	branch = main
