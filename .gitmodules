@@ -34,3 +34,6 @@
 	path = FdF
 	url = git@github.com:Nass26dev/FdF.git
 	branch = main
+[submodule "CPP"]
+	path = CPP
+	url = git@github.com:Nass26dev/CPP.git
