@@ -37,3 +37,9 @@
 [submodule "CPP"]
 	path = CPP
 	url = git@github.com:Nass26dev/CPP.git
+[submodule "Cub3d"]
+	path = Cub3d
+	url = git@github.com:Nass26dev/Cub3d.git
+[submodule "Cub3D"]
+	path = Cub3D
+	url = git@github.com:Nass26dev/Cub3D.git
